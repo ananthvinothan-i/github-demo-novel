@@ -1,6 +1,6 @@
 First outline text file created
 characters:
-Jay Gatsby
+Jay gatsby
 Nick Carraway
 Daisy Buchanan
 Thoman "Tom" Buchanan
