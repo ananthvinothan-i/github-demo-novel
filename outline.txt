@@ -4,3 +4,4 @@ Jay gatsby
 Nick Carraway
 Daisy Buchanan
 Thoman "Tom" Buchanan
+Added changes in outline file.
